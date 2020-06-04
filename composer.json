@@ -6,6 +6,6 @@
         }
     },
     "require": {
-        "denis909/yii2-pjax-helper"
+        "denis909/yii2-pjax-helper" : "*"
     }
 }
